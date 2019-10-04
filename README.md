@@ -1,2 +1,2 @@
 # liri-node-app-2
-This repository replaced the original depository that was corrupt.
+This repository replaces the original depository that was corrupt.
