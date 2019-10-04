@@ -16,6 +16,7 @@ Concert input searches Bands in Town Artist Events API, returns: venue name, ven
 ![concert-this](https://user-images.githubusercontent.com/52681642/66181240-a953b000-e635-11e9-806d-7886894cb332.jpeg)
  
 Do-what-it-says pulls the text from random.txt file and executes the spotify, movie or concert instruction and name to run the appropriate function.
+![do-what-it-says](https://user-images.githubusercontent.com/52681642/66181281-cdaf8c80-e635-11e9-8f0a-b64acb106065.jpeg)
  
 Issues
 Since this is a Bash command line only app it is not added to my portfolio.
