@@ -7,8 +7,7 @@ This app uses node.js, node-spotify-API, axios, moment and dotenv packages and s
 Usage
 Liri returns a response for each input. I created a set of functions, one for each input.
 Spotify input searches the Spotify API, returns: Artist, Song Name, Link to a preview of song, If no song input it defaults to "The Sign" by Ace of Base.
-![Image of Yaktocat]
-  (readMeImages/spotify-this-song.jpeg)
+![spotify-this-song](https://user-images.githubusercontent.com/52681642/66181145-54b03500-e635-11e9-8c9f-9ef5e718646b.jpeg)
   
 Movie input searches imbd API, returns: Title of movie, year movie came out, IMDB rating, country produced in, language, plot and actors.
  
